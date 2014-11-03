@@ -1,11 +1,11 @@
 @2013 copyright Scripps Institution of Oceanography, UCSD La Jolla CA
 
 
-###Embedded software Platform for ocean sensing.
+####Embedded software Platform for ocean sensing.
 
 Complete set of drivers and API for ocean sensing it uses Texas Instruments ARM Cortex M4 Microcontroller
 
-###Overall description:
+####Overall description:
 
 Connects different oceanographic instruments to main Microcontroller board using Serial RS232 COM
 
