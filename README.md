@@ -1,4 +1,4 @@
-@2013 copyright Scripps Institution of Oceanography, UCSD La Jolla CA
+©2013 copyright Scripps Institution of Oceanography, UCSD La Jolla CA
 
 
 ####Embedded software Platform for ocean sensing.
